@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_page_banners",
+  "info": {
+    "displayName": "Banner",
+    "icon": "attachment",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    }
+  }
+}

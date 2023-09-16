@@ -1,0 +1,29 @@
+{
+  "kind": "collectionType",
+  "collectionName": "cards",
+  "info": {
+    "singularName": "card",
+    "pluralName": "cards",
+    "displayName": "movie",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Fullname": {
+      "type": "string"
+    },
+    "stars": {
+      "type": "integer"
+    },
+    "slug": {
+      "type": "uid",
+      "targetField": "Fullname"
+    },
+    "Discription": {
+      "type": "text"
+    }
+  }
+}

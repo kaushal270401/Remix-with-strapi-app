@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_page_ctas",
+  "info": {
+    "displayName": "CTA",
+    "icon": "attachment"
+  },
+  "options": {},
+  "attributes": {
+    "Account_name": {
+      "type": "string"
+    },
+    "AccountBalance": {
+      "type": "string"
+    },
+    "Account_Number": {
+      "type": "string"
+    }
+  }
+}

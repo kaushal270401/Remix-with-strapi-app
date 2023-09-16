@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_page_links",
+  "info": {
+    "displayName": "Link",
+    "icon": "attachment"
+  },
+  "options": {},
+  "attributes": {
+    "Name": {
+      "type": "string"
+    },
+    "url": {
+      "type": "string"
+    }
+  }
+}
